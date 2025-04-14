@@ -1,0 +1,154 @@
+{
+    "name": "InputVRButton",
+    "maps": [
+        {
+            "name": "Test",
+            "id": "02368984-1bca-40d1-b423-dd91bfe73546",
+            "actions": [
+                {
+                    "name": "XR_PrimaryButtonR",
+                    "type": "Button",
+                    "id": "5b02f270-cd38-4dfb-9d0a-354426737070",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_SecondaryButtonR",
+                    "type": "Button",
+                    "id": "03bdc736-e854-4987-adca-b8d7e0b7693e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_PrimaryButtonL",
+                    "type": "Button",
+                    "id": "da7b4a14-51dc-48a9-9f8d-956f7db0c2fd",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_SecondaryButtonL",
+                    "type": "Button",
+                    "id": "1a0ca5a8-81b9-42e9-bd85-3c3a28326b18",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_MenuButton",
+                    "type": "Button",
+                    "id": "96386272-ebc9-4e86-bc28-06c77050fc22",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_ThumbstickR",
+                    "type": "Button",
+                    "id": "7f47de06-27c3-4f11-a808-3b62ba6ed695",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_ThumbstickL",
+                    "type": "Button",
+                    "id": "dcc641b6-7fb6-428a-9b15-9caf74706352",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6b9556d8-697f-4290-b8bb-167d9dd71574",
+                    "path": "<XRController>{RightHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_PrimaryButtonR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "47eefa4d-5252-43cb-a79f-29f8e1bed642",
+                    "path": "<XRController>{RightHand}/{SecondaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_SecondaryButtonR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "36f246e2-c40c-4b95-928a-9f399c158acd",
+                    "path": "<XRController>{LeftHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_PrimaryButtonL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4a5c615b-b1c1-4bcb-bc79-293e7818bd2f",
+                    "path": "<XRController>{LeftHand}/{SecondaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_SecondaryButtonL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "af2c1118-fe92-4756-a6c3-27871d957578",
+                    "path": "<XRController>{LeftHand}/{MenuButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_MenuButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "08b15c41-b6d3-474e-9128-baa71fa0e30e",
+                    "path": "<XRController>{RightHand}/{Primary2DAxisClick}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_ThumbstickR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "54c6839c-2155-44d9-95e1-fdc93099b12c",
+                    "path": "<XRController>{LeftHand}/{Primary2DAxisClick}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_ThumbstickL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

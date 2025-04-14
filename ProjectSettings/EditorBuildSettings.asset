@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/App/Launch.unity
+    guid: c5125b772d5e699499e41518e67a7553
+  - enabled: 1
+    path: Assets/App/Golf/Golf.unity
+    guid: 895bd26bf715bdc46b02dc73501777c0
+  - enabled: 1
+    path: Assets/App/Gun/GunTarget.unity
+    guid: 88ffe70dddbda304b8313bd8a98e116f
+  - enabled: 1
+    path: Assets/App/XR Interaction Toolkit/3.0.5/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/Lectures/Ch06_Golf/Ch06_Example_3_Title.unity
+    guid: d2d1585a5ca49eb4f9af1da373e8aa50
+  - enabled: 1
+    path: Assets/Lectures/Ch06_Golf/Ch06_Example_2_Game_DynamicImpulse.unity
+    guid: f7077504a2e4ba643ae88efa0a573045
+  - enabled: 1
+    path: Assets/Lectures/Ch06_Golf/Ch06_Task_Game.unity
+    guid: 59058311cc8f4e04285f51ad76aff4ec
+  - enabled: 1
+    path: Assets/Lectures/Ch06_Golf/Ch06_Example_4_Game_Complete.unity
+    guid: 40c53621af6c02d45b7e89c83d1b4e05
+  - enabled: 1
+    path: Assets/Lectures/Ch06_Golf/Ch06_Task_Title.unity
+    guid: b3ff16a830b92e64ba9f8fdd2cade3fd
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 996ec176392188945872e2cdc9d58ace, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
+  m_UseUCBPForAssetBundles: 0
