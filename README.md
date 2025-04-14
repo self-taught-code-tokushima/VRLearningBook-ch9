@@ -4,7 +4,7 @@
 
 ## 書籍情報
 
-![IMG](https://github.com/Pasonco/VRLearningBook/blob/main/cover.jpg)
+![IMG](https://github.com/nkjzm/VRLearningBook/blob/main/cover.jpg)
 
 - 書籍名: 「VRならでは」の体験を作る VRゲーム開発入門
 - 出版社: 技術評論社 (2025/04/15)
